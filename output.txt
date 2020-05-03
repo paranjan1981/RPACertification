@@ -1,0 +1,199 @@
+04/30/2020 22:26:04 => [Debug] Execution started for project: RoboticEnterpriseFramework_Certification
+04/30/2020 22:26:06 => [Info] RoboticEnterpriseFramework_Certification execution started
+04/30/2020 22:26:11 => [Debug] Killing processes...
+04/30/2020 22:26:12 => [Debug] Opening applications...
+04/30/2020 22:26:21 => [Info] Login Successful
+04/30/2020 22:26:22 => [Info] inside Work items
+04/30/2020 22:26:22 => [Info] Get transaction data started
+04/30/2020 22:26:22 => [Info] Inside GetTransactionData workflow
+04/30/2020 22:26:22 => [Info] Transaction Number: 1
+04/30/2020 22:26:22 => [Info] Value of Transaction number 1
+04/30/2020 22:26:22 => [Info] Selctor current value <html title='ACME System 1 - Work Items' /><webctrl tag='LI' aaname='1' />
+04/30/2020 22:26:22 => [Info] Current transaction number = 1
+04/30/2020 22:26:22 => [Info] Transaction Number: 1
+04/30/2020 22:26:22 => [Info] GetTransactionData workflow Ended
+04/30/2020 22:26:22 => [Info] Processing Transaction Number: 1
+04/30/2020 22:26:22 => [Info] Inside Process transaction
+04/30/2020 22:26:22 => [Info] Inside Process Workflow
+04/30/2020 22:26:22 => [Info] Value of Selector: <html title='ACME System 1 - Work Items' /><webctrl aaname='1' tag='A' />
+04/30/2020 22:26:22 => [Info] Current Page Number: 1
+04/30/2020 22:26:23 => [Info] Data scraping page number: 1
+04/30/2020 22:26:24 => [Info] -940632-Research Client Check Copy-WI2-Open-2018-05-24
+04/30/2020 22:26:24 => [Info] -565112-Research Client Check Copy-WI2-Open-2019-03-03
+04/30/2020 22:26:24 => [Info] -569442-Research Client Check Copy-WI2-Open-2019-08-26
+04/30/2020 22:26:24 => [Info] Process workflow ended
+04/30/2020 22:26:24 => [Info] Current Transaction Number is: 1
+04/30/2020 22:26:24 => [Info] Transaction Successful.
+04/30/2020 22:26:24 => [Info] Process transaction ended
+04/30/2020 22:26:24 => [Info] Get transaction data started
+04/30/2020 22:26:24 => [Info] Inside GetTransactionData workflow
+04/30/2020 22:26:24 => [Info] Transaction Number: 2
+04/30/2020 22:26:24 => [Info] Value of Transaction number 2
+04/30/2020 22:26:24 => [Info] Selctor current value <html title='ACME System 1 - Work Items' /><webctrl tag='LI' aaname='2' />
+04/30/2020 22:26:24 => [Info] Current transaction number = 2
+04/30/2020 22:26:24 => [Info] Transaction Number: 2
+04/30/2020 22:26:24 => [Info] GetTransactionData workflow Ended
+04/30/2020 22:26:24 => [Info] Processing Transaction Number: 2
+04/30/2020 22:26:24 => [Info] Inside Process transaction
+04/30/2020 22:26:24 => [Info] Inside Process Workflow
+04/30/2020 22:26:25 => [Info] Value of Selector: <html title='ACME System 1 - Work Items' /><webctrl aaname='2' tag='A' />
+04/30/2020 22:26:25 => [Info] Current Page Number: 2
+04/30/2020 22:26:25 => [Info] Data scraping page number: 2
+04/30/2020 22:26:27 => [Info] -967202-Research Client Check Copy-WI2-Open-2019-11-30
+04/30/2020 22:26:27 => [Info] Process workflow ended
+04/30/2020 22:26:27 => [Info] Current Transaction Number is: 2
+04/30/2020 22:26:27 => [Info] Transaction Successful.
+04/30/2020 22:26:27 => [Info] Process transaction ended
+04/30/2020 22:26:27 => [Info] Get transaction data started
+04/30/2020 22:26:27 => [Info] Inside GetTransactionData workflow
+04/30/2020 22:26:27 => [Info] Transaction Number: 3
+04/30/2020 22:26:27 => [Info] Value of Transaction number 3
+04/30/2020 22:26:27 => [Info] Selctor current value <html title='ACME System 1 - Work Items' /><webctrl tag='LI' aaname='3' />
+04/30/2020 22:26:27 => [Info] Current transaction number = 3
+04/30/2020 22:26:27 => [Info] GetTransactionData workflow Ended
+04/30/2020 22:26:27 => [Info] Transaction Number: 3
+04/30/2020 22:26:27 => [Info] Processing Transaction Number: 3
+04/30/2020 22:26:27 => [Info] Inside Process transaction
+04/30/2020 22:26:27 => [Info] Inside Process Workflow
+04/30/2020 22:26:27 => [Info] Value of Selector: <html title='ACME System 1 - Work Items' /><webctrl aaname='3' tag='A' />
+04/30/2020 22:26:28 => [Info] Current Page Number: 3
+04/30/2020 22:26:28 => [Info] Data scraping page number: 3
+04/30/2020 22:26:29 => [Info] -954892-Research Client Check Copy-WI2-Open-2018-03-18
+04/30/2020 22:26:29 => [Info] Process workflow ended
+04/30/2020 22:26:29 => [Info] Current Transaction Number is: 3
+04/30/2020 22:26:29 => [Info] Transaction Successful.
+04/30/2020 22:26:29 => [Info] Process transaction ended
+04/30/2020 22:26:29 => [Info] Get transaction data started
+04/30/2020 22:26:29 => [Info] Inside GetTransactionData workflow
+04/30/2020 22:26:29 => [Info] Transaction Number: 4
+04/30/2020 22:26:29 => [Info] Value of Transaction number 4
+04/30/2020 22:26:29 => [Info] Selctor current value <html title='ACME System 1 - Work Items' /><webctrl tag='LI' aaname='4' />
+04/30/2020 22:26:29 => [Info] Current transaction number = 4
+04/30/2020 22:26:29 => [Info] Transaction Number: 4
+04/30/2020 22:26:29 => [Info] GetTransactionData workflow Ended
+04/30/2020 22:26:29 => [Info] Processing Transaction Number: 4
+04/30/2020 22:26:29 => [Info] Inside Process transaction
+04/30/2020 22:26:29 => [Info] Inside Process Workflow
+04/30/2020 22:26:29 => [Info] Value of Selector: <html title='ACME System 1 - Work Items' /><webctrl aaname='4' tag='A' />
+04/30/2020 22:26:30 => [Info] Current Page Number: 4
+04/30/2020 22:26:30 => [Info] Data scraping page number: 4
+04/30/2020 22:26:31 => [Info] -465492-Research Client Check Copy-WI2-Open-2018-06-01
+04/30/2020 22:26:31 => [Info] -248442-Research Client Check Copy-WI2-Open-2019-06-08
+04/30/2020 22:26:31 => [Info] -921682-Research Client Check Copy-WI2-Open-2019-12-22
+04/30/2020 22:26:31 => [Info] Process workflow ended
+04/30/2020 22:26:31 => [Info] Current Transaction Number is: 4
+04/30/2020 22:26:31 => [Info] Transaction Successful.
+04/30/2020 22:26:31 => [Info] Process transaction ended
+04/30/2020 22:26:31 => [Info] Get transaction data started
+04/30/2020 22:26:31 => [Info] Inside GetTransactionData workflow
+04/30/2020 22:26:31 => [Info] Transaction Number: 5
+04/30/2020 22:26:31 => [Info] Value of Transaction number 5
+04/30/2020 22:26:31 => [Info] Selctor current value <html title='ACME System 1 - Work Items' /><webctrl tag='LI' aaname='5' />
+04/30/2020 22:26:31 => [Info] Current transaction number = 5
+04/30/2020 22:26:31 => [Info] Transaction Number: 5
+04/30/2020 22:26:31 => [Info] GetTransactionData workflow Ended
+04/30/2020 22:26:31 => [Info] Inside Process transaction
+04/30/2020 22:26:31 => [Info] Processing Transaction Number: 5
+04/30/2020 22:26:31 => [Info] Inside Process Workflow
+04/30/2020 22:26:31 => [Info] Value of Selector: <html title='ACME System 1 - Work Items' /><webctrl aaname='5' tag='A' />
+04/30/2020 22:26:32 => [Info] Current Page Number: 5
+04/30/2020 22:26:32 => [Info] Data scraping page number: 5
+04/30/2020 22:26:33 => [Info] -714812-Research Client Check Copy-WI2-Open-2019-02-04
+04/30/2020 22:26:33 => [Info] -212402-Research Client Check Copy-WI2-Open-2019-09-24
+04/30/2020 22:26:33 => [Info] -289512-Research Client Check Copy-WI2-Open-2020-01-08
+04/30/2020 22:26:33 => [Info] Process workflow ended
+04/30/2020 22:26:33 => [Info] Current Transaction Number is: 5
+04/30/2020 22:26:33 => [Info] Transaction Successful.
+04/30/2020 22:26:33 => [Info] Process transaction ended
+04/30/2020 22:26:33 => [Info] Get transaction data started
+04/30/2020 22:26:33 => [Info] Inside GetTransactionData workflow
+04/30/2020 22:26:34 => [Info] Transaction Number: 6
+04/30/2020 22:26:34 => [Info] Value of Transaction number 6
+04/30/2020 22:26:34 => [Info] Selctor current value <html title='ACME System 1 - Work Items' /><webctrl tag='LI' aaname='6' />
+04/30/2020 22:26:34 => [Info] Current transaction number = 6
+04/30/2020 22:26:34 => [Info] GetTransactionData workflow Ended
+04/30/2020 22:26:34 => [Info] Transaction Number: 6
+04/30/2020 22:26:34 => [Info] Processing Transaction Number: 6
+04/30/2020 22:26:34 => [Info] Inside Process transaction
+04/30/2020 22:26:34 => [Info] Inside Process Workflow
+04/30/2020 22:26:34 => [Info] Value of Selector: <html title='ACME System 1 - Work Items' /><webctrl aaname='6' tag='A' />
+04/30/2020 22:26:34 => [Info] Current Page Number: 6
+04/30/2020 22:26:35 => [Info] Data scraping page number: 6
+04/30/2020 22:26:36 => [Info] -462352-Research Client Check Copy-WI2-Open-2018-05-27
+04/30/2020 22:26:36 => [Info] -458192-Research Client Check Copy-WI2-Open-2019-12-09
+04/30/2020 22:26:36 => [Info] -672572-Research Client Check Copy-WI2-Open-2020-04-14
+04/30/2020 22:26:36 => [Info] Process workflow ended
+04/30/2020 22:26:36 => [Info] Current Transaction Number is: 6
+04/30/2020 22:26:36 => [Info] Transaction Successful.
+04/30/2020 22:26:36 => [Info] Process transaction ended
+04/30/2020 22:26:36 => [Info] Get transaction data started
+04/30/2020 22:26:36 => [Info] Inside GetTransactionData workflow
+04/30/2020 22:26:36 => [Info] Transaction Number: 7
+04/30/2020 22:26:36 => [Info] Value of Transaction number 7
+04/30/2020 22:26:36 => [Info] Selctor current value <html title='ACME System 1 - Work Items' /><webctrl tag='LI' aaname='7' />
+04/30/2020 22:26:36 => [Info] Current transaction number = 7
+04/30/2020 22:26:36 => [Info] Transaction Number: 7
+04/30/2020 22:26:36 => [Info] GetTransactionData workflow Ended
+04/30/2020 22:26:36 => [Info] Processing Transaction Number: 7
+04/30/2020 22:26:36 => [Info] Inside Process transaction
+04/30/2020 22:26:36 => [Info] Inside Process Workflow
+04/30/2020 22:26:36 => [Info] Value of Selector: <html title='ACME System 1 - Work Items' /><webctrl aaname='7' tag='A' />
+04/30/2020 22:26:37 => [Info] Current Page Number: 7
+04/30/2020 22:26:37 => [Info] Data scraping page number: 7
+04/30/2020 22:26:38 => [Info] -221242-Research Client Check Copy-WI2-Open-2018-06-26
+04/30/2020 22:26:38 => [Info] -281322-Research Client Check Copy-WI2-Open-2019-01-16
+04/30/2020 22:26:38 => [Info] -897782-Research Client Check Copy-WI2-Open-2019-02-10
+04/30/2020 22:26:38 => [Info] Process workflow ended
+04/30/2020 22:26:38 => [Info] Current Transaction Number is: 7
+04/30/2020 22:26:38 => [Info] Transaction Successful.
+04/30/2020 22:26:38 => [Info] Process transaction ended
+04/30/2020 22:26:38 => [Info] Get transaction data started
+04/30/2020 22:26:38 => [Info] Inside GetTransactionData workflow
+04/30/2020 22:26:38 => [Info] Transaction Number: 8
+04/30/2020 22:26:38 => [Info] Value of Transaction number 8
+04/30/2020 22:26:38 => [Info] Selctor current value <html title='ACME System 1 - Work Items' /><webctrl tag='LI' aaname='8' />
+04/30/2020 22:26:38 => [Info] Current transaction number = 8
+04/30/2020 22:26:38 => [Info] Transaction Number: 8
+04/30/2020 22:26:38 => [Info] GetTransactionData workflow Ended
+04/30/2020 22:26:38 => [Info] Processing Transaction Number: 8
+04/30/2020 22:26:38 => [Info] Inside Process Workflow
+04/30/2020 22:26:38 => [Info] Inside Process transaction
+04/30/2020 22:26:38 => [Info] Value of Selector: <html title='ACME System 1 - Work Items' /><webctrl aaname='8' tag='A' />
+04/30/2020 22:26:39 => [Info] Current Page Number: 8
+04/30/2020 22:26:39 => [Info] Data scraping page number: 8
+04/30/2020 22:26:40 => [Info] -207632-Research Client Check Copy-WI2-Open-2018-09-13
+04/30/2020 22:26:40 => [Info] -364542-Research Client Check Copy-WI2-Open-2018-11-02
+04/30/2020 22:26:40 => [Info] Process workflow ended
+04/30/2020 22:26:40 => [Info] Current Transaction Number is: 8
+04/30/2020 22:26:40 => [Info] Transaction Successful.
+04/30/2020 22:26:40 => [Info] Process transaction ended
+04/30/2020 22:26:40 => [Info] Get transaction data started
+04/30/2020 22:26:40 => [Info] Inside GetTransactionData workflow
+04/30/2020 22:26:40 => [Info] Transaction Number: 9
+04/30/2020 22:26:40 => [Info] Value of Transaction number 9
+04/30/2020 22:26:40 => [Info] Selctor current value <html title='ACME System 1 - Work Items' /><webctrl tag='LI' aaname='9' />
+04/30/2020 22:26:40 => [Info] Current transaction number = 9
+04/30/2020 22:26:40 => [Info] Transaction Number: 9
+04/30/2020 22:26:40 => [Info] GetTransactionData workflow Ended
+04/30/2020 22:26:40 => [Info] Inside Process transaction
+04/30/2020 22:26:40 => [Info] Processing Transaction Number: 9
+04/30/2020 22:26:40 => [Info] Inside Process Workflow
+04/30/2020 22:26:40 => [Info] Value of Selector: <html title='ACME System 1 - Work Items' /><webctrl aaname='9' tag='A' />
+04/30/2020 22:26:41 => [Info] Current Page Number: 9
+04/30/2020 22:26:41 => [Info] Data scraping page number: 9
+04/30/2020 22:26:42 => [Info] -713392-Research Client Check Copy-WI2-Open-2019-11-15
+04/30/2020 22:26:42 => [Info] Current Transaction Number is: 9
+04/30/2020 22:26:42 => [Info] Process workflow ended
+04/30/2020 22:26:43 => [Info] Transaction Successful.
+04/30/2020 22:26:43 => [Info] Process transaction ended
+04/30/2020 22:26:43 => [Info] Get transaction data started
+04/30/2020 22:26:43 => [Info] Inside GetTransactionData workflow
+04/30/2020 22:26:43 => [Info] Transaction Number: 10
+04/30/2020 22:26:43 => [Info] Value of Transaction number 10
+04/30/2020 22:26:43 => [Info] Selctor current value <html title='ACME System 1 - Work Items' /><webctrl tag='LI' aaname='10' />
+04/30/2020 22:27:13 => [Info] Current transaction number =
+04/30/2020 22:27:13 => [Info] Transaction Number: 10
+04/30/2020 22:27:13 => [Info] GetTransactionData workflow Ended
+04/30/2020 22:27:13 => [Info] Process finished due to no more transaction data
+04/30/2020 22:27:13 => [Debug] Closing applications...
+04/30/2020 22:27:13 => [Info] RoboticEnterpriseFramework_Certification execution ended in: 00:01:07
